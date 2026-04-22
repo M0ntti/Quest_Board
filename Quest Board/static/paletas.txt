@@ -1,0 +1,21 @@
+🔶 Tons principais
+
+Laranja forte (CTA, botões): rgb(230, 140, 40)
+Laranja original: rgb(240, 171, 81)
+Laranja claro: rgb(248, 213, 168)
+
+🎨 Neutros (essencial pra não ficar “cansativo”)
+
+Fundo geral: rgb(255, 248, 240) (quase branco quente)
+Texto principal: rgb(40, 40, 40) (cinza escuro)
+Texto secundário: rgb(100, 100, 100)
+
+🔷 Cor de contraste (pra equilibrar o laranja)
+
+Azul complementar elegante: rgb(52, 73, 94)
+Azul mais suave (hover, detalhes): rgb(93, 122, 150)
+
+🟢 Cor de feedback (opcional)
+
+Sucesso: rgb(46, 204, 113)
+Erro: rgb(231, 76, 60)
